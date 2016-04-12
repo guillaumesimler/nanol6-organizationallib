@@ -1,4 +1,6 @@
-ud989-cat-clicker-ko-starter
+Cat Clicker, an exercise to use an organizational framework
 ============================
 
-ud989-cat-clicker-ko-starter
+A part of the project (now 7) of the Udacity FEND
+
+An exercise done by Guillaume SIMLER 
